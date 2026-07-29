@@ -1,0 +1,314 @@
+{
+  "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+  "id": "9485474",
+  "self": "https://jira.example.com/rest/api/latest/issue/9485474",
+  "key": "PROJ-12714",
+  "fields": {
+    "customfield_19204": [
+      "Feature"
+    ],
+    "resolution": {
+      "self": "https://jira.example.com/rest/api/2/resolution/2",
+      "id": "2",
+      "description": "The problem described is an issue which will never be fixed.",
+      "name": "Won't Fix"
+    },
+    "lastViewed": "2026-07-27T14:12:07.003+0000",
+    "customfield_19313": {
+      "self": "https://jira.example.com/rest/api/2/customFieldOption/39444",
+      "value": "N/A",
+      "id": "39444",
+      "disabled": false
+    },
+    "aggregatetimeoriginalestimate": null,
+    "issuelinks": [],
+    "assignee": {
+      "self": "https://jira.example.com/rest/api/2/user?username=john.developer%40example.com",
+      "name": "john.developer@example.com",
+      "key": "JIRAUSER00001",
+      "emailAddress": "john.developer@example.com",
+      "avatarUrls": {
+        "48x48": "https://jira.example.com/secure/useravatar?ownerId=JIRAUSER00001&avatarId=35022",
+        "24x24": "https://jira.example.com/secure/useravatar?size=small&ownerId=JIRAUSER00001&avatarId=35022",
+        "16x16": "https://jira.example.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER00001&avatarId=35022",
+        "32x32": "https://jira.example.com/secure/useravatar?size=medium&ownerId=JIRAUSER00001&avatarId=35022"
+      },
+      "displayName": "John Developer",
+      "active": true,
+      "timeZone": "Europe/Paris"
+    },
+    "customfield_19301": [
+      {
+        "self": "https://jira.example.com/rest/api/2/customFieldOption/39400",
+        "value": "HQ",
+        "id": "39400",
+        "disabled": false
+      }
+    ],
+    "customfield_19302": "None",
+    "customfield_19307": "None",
+    "customfield_19308": "None",
+    "customfield_19303": "None",
+    "customfield_19304": "None",
+    "customfield_19305": "None",
+    "customfield_19306": "None",
+    "subtasks": [],
+    "votes": {
+      "self": "https://jira.example.com/rest/api/2/issue/PROJ-12714/votes",
+      "votes": 0,
+      "hasVoted": false
+    },
+    "worklog": {
+      "startAt": 0,
+      "maxResults": 20,
+      "total": 0,
+      "worklogs": []
+    },
+    "issuetype": {
+      "self": "https://jira.example.com/rest/api/2/issuetype/10100",
+      "id": "10100",
+      "description": "Created by Jira Software - do not edit or delete. Issue type for a user story.",
+      "iconUrl": "https://jira.example.com/secure/viewavatar?size=xsmall&avatarId=10315&avatarType=issuetype",
+      "name": "Story",
+      "subtask": false,
+      "avatarId": 10315
+    },
+    "customfield_11901": "no_permission",
+    "timetracking": {},
+    "duedate": null,
+    "customfield_19156": {
+      "self": "https://jira.example.com/rest/api/2/customFieldOption/39913",
+      "value": "No",
+      "id": "39913",
+      "disabled": false
+    },
+    "customfield_19155": {
+      "self": "https://jira.example.com/rest/api/2/customFieldOption/39909",
+      "value": "Team",
+      "id": "39909",
+      "disabled": false
+    },
+    "timeestimate": null,
+    "status": {
+      "self": "https://jira.example.com/rest/api/2/status/18488",
+      "description": "This status is managed internally by JIRA Software",
+      "iconUrl": "https://jira.example.com/",
+      "name": "Cancel",
+      "id": "18488",
+      "statusCategory": {
+        "self": "https://jira.example.com/rest/api/2/statuscategory/3",
+        "id": 3,
+        "key": "done",
+        "colorName": "success",
+        "name": "Done"
+      }
+    },
+    "archiveddate": null,
+    "aggregatetimeestimate": null,
+    "creator": {
+      "self": "https://jira.example.com/rest/api/2/user?username=jane.product%40example.com",
+      "name": "jane.product@example.com",
+      "key": "JIRAUSER00002",
+      "emailAddress": "jane.product@example.com",
+      "avatarUrls": {
+        "48x48": "https://jira.example.com/secure/useravatar?ownerId=JIRAUSER00002&avatarId=33706",
+        "24x24": "https://jira.example.com/secure/useravatar?size=small&ownerId=JIRAUSER00002&avatarId=33706",
+        "16x16": "https://jira.example.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER00002&avatarId=33706",
+        "32x32": "https://jira.example.com/secure/useravatar?size=medium&ownerId=JIRAUSER00002&avatarId=33706"
+      },
+      "displayName": "Jane Product",
+      "active": true,
+      "timeZone": "Europe/Paris"
+    },
+    "customfield_13703": "0.0",
+    "customfield_19125": {
+      "self": "https://jira.example.com/rest/api/2/customFieldOption/39550",
+      "value": "No",
+      "id": "39550",
+      "disabled": false
+    },
+    "customfield_19121": {
+      "self": "https://jira.example.com/rest/api/2/customFieldOption/39501",
+      "value": "Tests required",
+      "id": "39501",
+      "disabled": false
+    },
+    "timespent": null,
+    "aggregatetimespent": null,
+    "workratio": -1,
+    "customfield_10300": "1|i62ed8:",
+    "customfield_11862": "0.0",
+    "customfield_12251": [],
+    "labels": [
+      "ExampleLabel"
+    ],
+    "components": [],
+    "reporter": {
+      "self": "https://jira.example.com/rest/api/2/user?username=jane.product%40example.com",
+      "name": "jane.product@example.com",
+      "key": "JIRAUSER00002",
+      "emailAddress": "jane.product@example.com",
+      "avatarUrls": {
+        "48x48": "https://jira.example.com/secure/useravatar?ownerId=JIRAUSER00002&avatarId=33706",
+        "24x24": "https://jira.example.com/secure/useravatar?size=small&ownerId=JIRAUSER00002&avatarId=33706",
+        "16x16": "https://jira.example.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER00002&avatarId=33706",
+        "32x32": "https://jira.example.com/secure/useravatar?size=medium&ownerId=JIRAUSER00002&avatarId=33706"
+      },
+      "displayName": "Jane Product",
+      "active": true,
+      "timeZone": "Europe/Paris"
+    },
+    "progress": {
+      "progress": 0,
+      "total": 0
+    },
+    "archivedby": null,
+    "project": {
+      "self": "https://jira.example.com/rest/api/2/project/24916",
+      "id": "24916",
+      "key": "PROJ",
+      "name": "Example Project",
+      "projectTypeKey": "software",
+      "avatarUrls": {
+        "48x48": "https://jira.example.com/secure/projectavatar?pid=24916&avatarId=10011",
+        "24x24": "https://jira.example.com/secure/projectavatar?size=small&pid=24916&avatarId=10011",
+        "16x16": "https://jira.example.com/secure/projectavatar?size=xsmall&pid=24916&avatarId=10011",
+        "32x32": "https://jira.example.com/secure/projectavatar?size=medium&pid=24916&avatarId=10011"
+      },
+      "projectCategory": {
+        "self": "https://jira.example.com/rest/api/2/projectCategory/12901",
+        "id": "12901",
+        "description": "Example Program Project",
+        "name": "Example Program Project"
+      }
+    },
+    "resolutiondate": "2026-07-27T14:07:34.394+0000",
+    "watches": {
+      "self": "https://jira.example.com/rest/api/2/issue/PROJ-12714/watchers",
+      "watchCount": 4,
+      "isWatching": true
+    },
+    "updated": "2026-07-27T14:07:34.431+0000",
+    "timeoriginalestimate": null,
+    "description": "*As a* application user\n\n*I want* to be able to export my data in CSV format\n\n*So that* I can analyze it using external tools\n\n\n\n*Actual Behavior*\n * The export feature currently only supports PDF format\n\n*Scope*\n * All registered users\n\n*Acceptance criteria*\n * Users can select CSV as an export format\n * The exported CSV contains all relevant data fields\n * The CSV file is properly formatted with headers\n * Large datasets are exported efficiently without timeout\n\n+*Comments:*+\n * This feature has been requested by multiple users in user feedback surveys",
+    "customfield_10005": [
+      "com.atlassian.greenhopper.service.sprint.Sprint@55e529ef[activatedDate=2026-06-08T12:02:46.219Z,autoStartStop=false,completeDate=2026-06-24T04:16:10.068Z,endDate=2026-06-18T11:58:00.000Z,goal=Sprint Goal Example,id=263704,incompleteIssuesDestinationId=<null>,name=Sprint 1,rapidViewId=16419,sequence=263704,startDate=2026-06-08T11:58:00.000Z,state=CLOSED,synced=false]"
+    ],
+    "customfield_10006": "PROJ-875",
+    "customfield_26000": {
+      "self": "https://jira.example.com/rest/api/2/customFieldOption/57703",
+      "value": "P3 (Low)",
+      "id": "57703",
+      "disabled": false
+    },
+    "customfield_26004": {
+      "self": "https://jira.example.com/rest/api/2/customFieldOption/57726",
+      "value": "To be defined by requirements",
+      "id": "57726",
+      "disabled": false
+    },
+    "customfield_26006": "  ",
+    "summary": "Add CSV export functionality for user data",
+    "customfield_10004": "9223372036854775807",
+    "comment": {
+      "comments": [
+        {
+          "self": "https://jira.example.com/rest/api/2/issue/9485474/comment/8395119",
+          "id": "8395119",
+          "author": {
+            "self": "https://jira.example.com/rest/api/2/user?username=john.developer%40example.com",
+            "name": "john.developer@example.com",
+            "key": "JIRAUSER00001",
+            "emailAddress": "john.developer@example.com",
+            "avatarUrls": {
+              "48x48": "https://jira.example.com/secure/useravatar?ownerId=JIRAUSER00001&avatarId=35022",
+              "24x24": "https://jira.example.com/secure/useravatar?size=small&ownerId=JIRAUSER00001&avatarId=35022",
+              "16x16": "https://jira.example.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER00001&avatarId=35022",
+              "32x32": "https://jira.example.com/secure/useravatar?size=medium&ownerId=JIRAUSER00001&avatarId=35022"
+            },
+            "displayName": "John Developer",
+            "active": true,
+            "timeZone": "Europe/Paris"
+          },
+          "body": "The CSV export functionality can be implemented using the existing data export service. We need to add a new format option and ensure proper CSV formatting.",
+          "updateAuthor": {
+            "self": "https://jira.example.com/rest/api/2/user?username=john.developer%40example.com",
+            "name": "john.developer@example.com",
+            "key": "JIRAUSER00001",
+            "emailAddress": "john.developer@example.com",
+            "avatarUrls": {
+              "48x48": "https://jira.example.com/secure/useravatar?ownerId=JIRAUSER00001&avatarId=35022",
+              "24x24": "https://jira.example.com/secure/useravatar?size=small&ownerId=JIRAUSER00001&avatarId=35022",
+              "16x16": "https://jira.example.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER00001&avatarId=35022",
+              "32x32": "https://jira.example.com/secure/useravatar?size=medium&ownerId=JIRAUSER00001&avatarId=35022"
+            },
+            "displayName": "John Developer",
+            "active": true,
+            "timeZone": "Europe/Paris"
+          },
+          "created": "2026-06-09T15:12:53.473+0000",
+          "updated": "2026-06-09T15:17:22.513+0000"
+        },
+        {
+          "self": "https://jira.example.com/rest/api/2/issue/9485474/comment/8459135",
+          "id": "8459135",
+          "author": {
+            "self": "https://jira.example.com/rest/api/2/user?username=jane.product%40example.com",
+            "name": "jane.product@example.com",
+            "key": "JIRAUSER00002",
+            "emailAddress": "jane.product@example.com",
+            "avatarUrls": {
+              "48x48": "https://jira.example.com/secure/useravatar?ownerId=JIRAUSER00002&avatarId=33706",
+              "24x24": "https://jira.example.com/secure/useravatar?size=small&ownerId=JIRAUSER00002&avatarId=33706",
+              "16x16": "https://jira.example.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER00002&avatarId=33706",
+              "32x32": "https://jira.example.com/secure/useravatar?size=medium&ownerId=JIRAUSER00002&avatarId=33706"
+            },
+            "displayName": "Jane Product",
+            "active": true,
+            "timeZone": "Europe/Paris"
+          },
+          "body": "Users have confirmed that CSV export is a high priority feature. Please prioritize this in the next sprint.",
+          "updateAuthor": {
+            "self": "https://jira.example.com/rest/api/2/user?username=jane.product%40example.com",
+            "name": "jane.product@example.com",
+            "key": "JIRAUSER00002",
+            "emailAddress": "jane.product@example.com",
+            "avatarUrls": {
+              "48x48": "https://jira.example.com/secure/useravatar?ownerId=JIRAUSER00002&avatarId=33706",
+              "24x24": "https://jira.example.com/secure/useravatar?size=small&ownerId=JIRAUSER00002&avatarId=33706",
+              "16x16": "https://jira.example.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER00002&avatarId=33706",
+              "32x32": "https://jira.example.com/secure/useravatar?size=medium&ownerId=JIRAUSER00002&avatarId=33706"
+            },
+            "displayName": "Jane Product",
+            "active": true,
+            "timeZone": "Europe/Paris"
+          },
+          "created": "2026-07-03T14:36:37.318+0000",
+          "updated": "2026-07-03T14:36:37.318+0000"
+        }
+      ],
+      "maxResults": 2,
+      "total": 2,
+      "startAt": 0
+    },
+    "fixVersions": [],
+    "priority": {
+      "self": "https://jira.example.com/rest/api/2/priority/10600",
+      "iconUrl": "https://jira.example.com/images/icons/priorities/medium.svg",
+      "name": "P2 - Medium",
+      "id": "10600"
+    },
+    "versions": [],
+    "aggregateprogress": {
+      "progress": 0,
+      "total": 0
+    },
+    "created": "2026-06-09T14:24:39.845+0000",
+    "customfield_18939": "The CSV export feature will be implemented in the next release.",
+    "customfield_13000": "{}",
+    "attachment": [],
+    "customfield_14200": "",
+    "customfield_15407": null
+  },
+  "renderedFields": null
+}
